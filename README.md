@@ -1,2 +1,2 @@
-# Act.1Intr-negocios
+# Intr-negocios
 Estrategias Organizacionales  y Gestión de Grupos. Introducción a los Negocios.
